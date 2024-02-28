@@ -22,5 +22,7 @@ Validation accuracy: 97.78%
 
 Sample Segmentation Results:
 
-!processed([http://url/to/img.png](https://ibb.co/sgmrWVn)https://ibb.co/sgmrWVn)
+<p align="center">
+  <img src="[your_relative_path_here](https://ibb.co/sgmrWVn)" width="350" title="hover text">
+</p>
 
