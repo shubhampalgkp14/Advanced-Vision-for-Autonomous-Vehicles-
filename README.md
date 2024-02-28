@@ -15,8 +15,12 @@ http://carla.readthedocs.io/en/latest/cameras_and_sensors/#camera-semantic-segme
 
 Results:-
 U-Net Semantic Segmentation:-
+
 Training accuracy: 98.02%
+
 Validation accuracy: 97.78%
+
 Sample Segmentation Results:
-![alt text]([http://url/to/img.png](https://ibb.co/sgmrWVn)https://ibb.co/sgmrWVn)
+
+!processed([http://url/to/img.png](https://ibb.co/sgmrWVn)https://ibb.co/sgmrWVn)
 
